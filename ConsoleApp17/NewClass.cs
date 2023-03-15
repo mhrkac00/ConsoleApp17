@@ -9,6 +9,6 @@ namespace ConsoleApp17
     class NewClass
     {
         Console.WriteLine("New Clasuhjhbjs");
-        Console.WriteLine("New ");
+       
     }
 }
