@@ -15,11 +15,4 @@ namespace ConsoleApp17
         }
     }
 
-    class NewClass
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Nova Klasa");
-        }
-    }
 }
