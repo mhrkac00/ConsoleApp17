@@ -8,5 +8,6 @@ namespace ConsoleApp17
 {
     class NewClass
     {
+        Console.WriteLine("New Class");
     }
 }
