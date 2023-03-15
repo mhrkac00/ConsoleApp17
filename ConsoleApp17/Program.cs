@@ -14,4 +14,12 @@ namespace ConsoleApp17
            Console.WriteLine("Hello World");
         }
     }
+
+    class NewClass
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Nova Klasa");
+        }
+    }
 }
